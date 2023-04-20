@@ -1,0 +1,251 @@
+musica2{
+    width:200px;
+    height:30px;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+    background-color:#ffffff;
+    border-style: solid;
+    border-color: #000000;
+  }
+musica{
+    width:200px;
+    height:30px;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+    background-color:#ffffff;
+    border-style: solid;
+    border-color: #000000;
+  }
+
+home{
+    width:200px;
+    height:30px;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+    background-color:#ffffff;
+    border-style: solid;
+    border-color: #000000;
+  }
+button{
+    width:200px;
+    height:30px;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+    background-color:#ffffff;
+    border-style: solid;
+    border-color: #000000;
+  }
+body {
+    color: rgb(255, 255, 255);
+  
+}   
+#header{
+    color: rgb(255, 255, 255)(255, 255, 255);
+  
+}
+#searchbar{
+    margin-left: 15%;
+    padding:15px;
+    border-radius: 10px;
+  }
+
+  input[type=text] {
+     width: 30%;
+     -webkit-transition: width 0.15s ease-in-out;
+     transition: width 0.15s ease-in-out;
+  }
+
+  input[type=text]:focus {
+    width: 70%;
+  }
+
+ #list{
+   font-size:  1.5em;
+   margin-left: 90px;
+  }
+
+.animals{
+  display: list-item;    
+ } 
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(94, 0, 0);
+    padding: 20px 20px;
+  }
+  
+  nav {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+p{
+    color: rgb(255, 255, 255);
+    
+}
+div.container-a1 {
+    background: rgb(143, 0, 0);
+    color: #FFF;
+}
+div {
+    background: rgb(173, 69, 69);
+    color: #ffffff;
+}
+body{
+background-image: url("https://img.freepik.com/free-photo/valentines-rsquo-hearts-border-plasticine-clay-diy-craft_53876-127092.jpg?w=900&t=st=1681871508~exp=1681872108~hmac=93886ed397fd11e71074022d5108e91e7e0686677bcc5630db3f6d4ce75dc61f");
+background-repeat: no-repeat;
+background-size: cover;
+} 
+
+.box {
+    float: right;
+    margin: 250px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(153, 0, 59)(0, 0, 0);
+    transform: rotate(0.8turn)
+  }
+  
+h1 {
+    color: rgb(255, 255, 255)(255, 255, 255);
+    background-color: rgb(129, 0, 50)(0, 0, 0)(0, 0, 0);
+    border: 1px solid #900(0, 0, 0);
+  }
+ 
+body{
+    float: left;
+}
+
+div {
+   display: table-cell;
+    float: left;
+    width: 250px;
+      height: 250px;
+         display: inline-block;
+              background-color: rgb(255, 255, 255);
+                     font-size: 16px;
+                          padding: 0px;
+                            margin: 0%;
+                             margin-left:20%;
+                                 height:5%;
+                                  width:20%;
+                                     margin-top:5%;
+                                 margin-left:40%;
+                              margin-top:5%;
+                             background-color:#900;   
+                         height:5%;
+                  width:20%;
+            margin-left:10%;
+          
+}
+
+container-a1 {
+    width: 250px;
+        height: 250px;
+         display: inline-block;
+             background-color: rgb(0, 0, 0)(255, 100, 100);
+                 font-size: 16px;
+                    padding: 4px;
+                        margin: 4px;
+                         margin-left:10%;
+                             margin-left:20%;
+                                 background-color:rgb(255, 255, 255);   
+                                     height:5%;
+                                    width:20%;
+                              margin-top:0%;
+                          margin-left:60%;
+                     margin-top:5%;
+                 background-color:rgb(255, 255, 255);   
+                height:5%;
+          width:20%;
+    margin-left:10%;
+}
+
+container-a { 
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+   
+}
+div.container-a {
+    background: #900;
+    color: #FFF;
+}
+.container-a {
+    margin-left:10%;    
+    
+    }
+    .container-a {
+        margin-left:20%;
+        background-color:#ffffff;   
+        height:5%;
+        width:20%;
+        margin-top:0%;
+        }
+        
+        .container-a {
+        margin-left:60%;
+        margin-top:1%;
+        }
+        
+        .container-a {
+        background-color:#ffffff;   
+        height:5%;
+        width:20%;
+        margin-left:10%;
+        }
+
+
+
+        div.container-b {
+            background: #900;
+            color: #FFF;
+        }
+container-b {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+
+    background-color: rgb(255, 255, 255);
+
+}
+.container-b{
+    margin-left:10%;    
+    
+    }
+    .container-b{
+        margin-left:20%;
+        background-color:#ffffff;   
+        height:5%;
+        width:20%;
+        margin-top:0%;
+        }
+        
+        .container-b{
+        margin-left:60%;
+        margin-top:1%;
+        }
+        
+        .container-b{
+        background-color:#ffffff;   
+        height:5%;
+        width:20%;
+        margin-left:10%;
+        }
